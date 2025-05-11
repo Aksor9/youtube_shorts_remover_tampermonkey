@@ -21,8 +21,6 @@ No more distractions from vertical video content you didn’t ask for!
 2. Click the link below to install the script:  
    👉 [Install script](https://github.com/Aksor9/youtube_shorts_remover_tampermonkey/raw/refs/heads/master/script.user.js)
 
-   > Replace the URL with the actual raw GitHub link to your `.user.js` file.
-
 3. Tampermonkey will open a new tab showing the script code.
 
 4. Click **"Install"** in the top-right corner.
